@@ -2,7 +2,7 @@
 
 > - [dotnettutorials.net](https://dotnettutorials.net/lesson/object-oriented-programming-csharp/) ve [tutorialsteacher.com](https://www.tutorialsteacher.com/csharp) platformlarında yayınlanan **OOP-C#** serilerini okuyarak ve öğrendiklerimi console uygulamalarında test ederek **OOP yaklaşımını** ve **ilgili C# bileşenlerini** öğrenme serüvenim...
 
-> - Tamamlanma Oranı: %**88,57**
+> - Tamamlanma Oranı: %**94,28**
 
 ## ⚙️ What is Object Oriented Programming?
 
